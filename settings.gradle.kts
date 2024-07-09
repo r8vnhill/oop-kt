@@ -2,6 +2,7 @@ rootProject.name = "oop-kt"
 
 include(
     ":extensions",
+    ":infix"
 )
 
 pluginManagement {
