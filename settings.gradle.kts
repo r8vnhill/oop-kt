@@ -1,7 +1,7 @@
 rootProject.name = "oop-kt"
 
 include(
-    ":properties",
+    ":extensions",
 )
 
 pluginManagement {
