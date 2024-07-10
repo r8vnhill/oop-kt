@@ -4,6 +4,7 @@ include(
     ":extensions",
     ":infix",
     ":companion",
+    ":properties",
 )
 
 pluginManagement {
